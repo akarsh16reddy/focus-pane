@@ -2,6 +2,18 @@
 
 Focus Pane is a small cross-platform desktop utility that dims every display while keeping the applications underneath interactive. It is intended to reduce visual distraction while reading PDFs, documentation, and long-form text.
 
+## Preview
+
+### Focus mode in action
+
+![Focus Pane keeping a reading band clear over a PDF while dimming the rest of the screen](images/document_overlay_example.png)
+
+### Control panel
+
+<p align="center">
+  <img src="images/focus_pane_ui.png" alt="Focus Pane control panel with reading-band position, height, and dim-strength controls" width="420">
+</p>
+
 ## Current features
 
 - One click-through overlay per connected display with a clear reading band
